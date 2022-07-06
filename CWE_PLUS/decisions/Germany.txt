@@ -119,32 +119,6 @@ political_decisions = {
 		}		
 	}
 
-	establish_east_german_border = {
-		picture = "establish_east_germany"
-		potential = {
-			tag = RUS
-			POL = { in_sphere = THIS }
-			NOT = {
-				has_country_flag = BORDERS_ESTABLISHED
-			}
-		}
-
-		allow = {
-			DDR = { exists = no }
-		}
-
-		effect = {
-			RUS = {
-				country_event = {
-					id = 1001010
-					days = 1
-				}
-				set_country_flag = BORDERS_ESTABLISHED
-			}
-		}
-		ai_will_do { factor = 1 }
-	}
-
 	#Old way
 	establish_east_germany = {
 		picture = "establish_east_germany"

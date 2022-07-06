@@ -1,6 +1,69 @@
 political_decisions = {
 
-	form_benelux = {
+	propose_lowland_federal_kingdom = {
+		picture = "form_benelux"
+		potential = {
+			tag = NET
+			AND = {
+				OR = {
+					NOT = { exists = GER }
+					NOT = { LOWLAND_PROPOSAL }
+				}
+			}
+		}
+
+		allow = {
+			exists = NET
+			exists = BEL
+			exists = LUX
+			war = no
+			prestige = 150
+			NOT = { LOWLAND_PROPOSAL }
+		}
+
+		effect = {
+			BEL = { country_event = { id = 2001010 days = 1 } }
+			set_country_flag = LOWLAND_PROPOSAL
+		}
+	}
+
+	centralise_lowland_kingdom = {
+		picture = "form_benelux"
+		potential = {
+			tag = NET
+			AND = {
+				NOT = { has_country_flag BENELUX_FORMED }
+			}
+		}
+		allow = {
+			tag = NET
+			AND = {
+				year = 1971
+				exists = FLA
+				OR = {
+					FLA = { has_country_flag = LOWLAND_CONFEDERATION }
+					WLL = { has_country_flag = LOWLAND_CONFEDERATION }
+					LUX = { has_country_flag = LOWLAND_CONFEDERATION }
+					RHL = { has_country_flag = LOWLAND_CONFEDERATION }
+				}
+			}
+		}
+		effect = {
+			prestige = 150
+			change_tag = BNL
+			set_country_flag = BENELUX_FORMED
+			any_country = {
+				limit = {
+						has_country_flag = LOWLAND_CONFEDERATION
+				}
+				country_event = {
+					id = 2001040 days = 0
+				}
+			}
+		}
+	}
+
+		form_benelux = {
 		picture = "form_benelux"
 		potential = {
 			is_greater_power = yes

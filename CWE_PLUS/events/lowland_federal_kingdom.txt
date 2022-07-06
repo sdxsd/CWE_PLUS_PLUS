@@ -1,0 +1,177 @@
+country_event = {
+	id = 2001010
+	title = "lowland_federal_kingdom_bel_title"
+	desc = "lowland_federal_kingdom_bel_desc"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "accept_federation"
+		prestige = -1000
+		any_owned = {
+			limit = {
+				pop_majority_culture = flemish
+				OR = {
+					is_core = FLA
+				}
+				secede_province = FLA
+			}
+		}
+		release = FLA
+		release = RWA
+		change_tag = WLL
+		set_country_flag = LOWLAND_CONFEDERATION
+		FLA = {
+			set_country_flag = LOWLAND_CONFEDERATION
+		}
+		any_owned = {
+			limit = {
+				is_core = CNG
+			}
+			secede_province = NET
+		}
+		NET = {
+			prestige 75
+			add_accepted_culture = flemish
+			add_accepted_culture = wallonian
+			create_vassal = FLA
+			create_vassal = WLL
+			create_vassal = RWA
+			relation = { who = FLA value = 200 }
+			diplomatic_influence = { who = FLA value = 200 }
+			relation = { who = WLL value = 200 }
+			diplomatic_influence = { who = WLL value = 200 }
+		}
+		LUX = { country_event = { id = 2001020 } }
+		ai_chance = { factor = 0.4 }
+	}
+
+	option = {
+		name = "reject_federation"
+		prestige = 25
+		relation = {
+			who = NET
+			value = -50
+		}
+		ai_chance = { factor = 0.6 }
+	}
+}
+
+country_event = {
+	id = 2001020
+	title = "lowland_federal_kingdom_lux_title"
+	desc = "lowland_federal_kingdom_lux_desc"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "accept_federation"
+		set_country_flag = LOWLAND_CONFEDERATION
+		NET = {
+			prestige = -75
+			create_vassal = THIS
+			add_accepted_culture = german
+			relation = { who = THIS value = 200 }
+			diplomatic_influence = { who = THIS value = 200 }
+		}
+		ENG = { country_event = { id = 2001030 days = 1 } }
+		ai_chance = { factor = 0.9 }
+	}
+
+	option = {
+		name = "reject_federation"
+		prestige 25
+		relation = {
+			who = NET
+			value = -50
+		}
+		ai_chance = { factor = 0.1 }
+	}
+}
+
+country_event = {
+	id = 2001030
+	title = "rhineland_lowland_kingdom_title"
+	desc = "rhineland_lowland_kingdom_desc"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "rhineland_lowland_kingdom"
+		any_owned = {
+			limit = {
+				is_core = GER
+				AND = {
+					OR = {
+						province_id = 577
+						province_id = 576
+						province_id = 575
+						province_id = 2561
+						province_id = 581
+						province_id = 580
+						province_id = 542
+						province_id = 538
+						province_id = 543
+						province_id = 541
+						province_id = 540
+						province_id = 578
+					}
+				}
+			}
+			add_core = RHL
+			secede_province = RHL
+		}
+		release = RHL
+		relation = {
+			who = NET
+			value = 150
+		}
+		NET = {
+			add_accepted_culture = german
+			create_vassal = RHL
+			relation = {
+				who = RHL
+				value = 200
+			}
+			diplomatic_influence = {
+				who = RHL
+				value = 200
+			}
+		}
+		RHL = {
+			set_country_flag = LOWLAND_CONFEDERATION
+		}
+		ai_chance = { factor = 0.6 }
+	}
+
+	option = {
+		name = "rhineland_remains_german"
+		prestige 50
+		relation = {
+			who = NET
+			value = -100
+		}
+		ai_chance = { factor = 0.4 }
+	}
+}
+
+country_event = {
+	id = 2001040
+	title = "centralise_lowland_title"
+	desc = "centralise_lowland_desc"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "centralise_opt"
+		any_owned = {
+			limit = {
+				is_core = THIS
+			}
+			add_core = BNL
+		}
+		THIS = {
+			annex_to = BNL
+		}
+	}
+}
