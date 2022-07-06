@@ -1,0 +1,39 @@
+political_decisions = {
+	population_growth = {
+		alert = no
+		picture = "population_growth"
+		potential = {
+			NOT = { has_country_modifier = baby_boom }
+		}
+
+		allow = {
+		
+			#Favourable local conditions
+			has_recently_lost_war = no
+			war = no
+			election = no
+			NOT = { average_militancy = 3 }
+			
+			#Must have money to spend
+			money = 100000
+
+			#Traditionalist or nationalist governments with either nationalist or traditionalist pop majority ideologies only
+			OR = { ruling_party_ideology = traditionalist ruling_party_ideology = nationalist }
+			OR = { pop_majority_ideology = traditionalist pop_majority_ideology = nationalist }
+
+		}
+
+		effect = {
+			add_country_modifier = { name = baby_boom duration = 3650 }
+			any_pop = { consciousness = 5 }
+		}
+
+		ai_will_do = {
+			factor = 1
+			
+			#Only GP AIs take this decision
+			modifier = { factor = 0 is_greater_power = no }
+		}
+		
+	}
+}

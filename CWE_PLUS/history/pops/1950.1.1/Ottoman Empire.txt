@@ -1,0 +1,3489 @@
+#Edirne - Edirne (216000/54000 POPS)
+828 = {
+	farmers = {
+		culture = turkish
+		religion = sunni 
+		size = 44231
+	 }
+	farmers = {
+		culture = bulgarian
+		religion = sunni 
+		size = 1131
+	 }
+	farmers = {
+		culture = albanian
+		religion = sunni 
+		size = 109
+	 }
+	farmers = {
+		culture = jewish
+		religion = jewish 
+		size = 121
+	 }
+	farmers = {
+		culture = bosniak
+		religion = sunni 
+		size = 132
+	 }	
+	farmers = {
+		culture = roma
+		religion = sunni 
+		size = 136
+	 }	
+	artisans = {
+		culture = turkish
+		religion = sunni 
+		size = 1408
+	 }
+	artisans = {
+		culture = bulgarian
+		religion = sunni 
+		size = 109
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion = sunni 
+		size = 417
+	 }	
+	capitalists = {
+		culture = turkish
+		religion = sunni 
+		size = 3
+	 }  
+	clerks = {
+		culture = turkish
+		religion = sunni 
+		size = 1729
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion = sunni 
+		size = 71
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion = sunni 
+		size = 1689
+	 }
+	clergymen = {
+		culture = turkish
+		religion = sunni 
+		size = 59
+	 }
+	soldiers = {
+		culture = turkish
+		religion = sunni 
+		size = 2682
+	 }
+	officers = {
+		culture = turkish
+		religion = sunni 
+		size = 113
+	 } 
+}
+#Kirklareli - Kirklareli (194000/48500 POPS)
+858 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 39261
+	 } 
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 501
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 1171
+	 } 
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 109
+	 }
+	farmers = {
+		culture = roma
+		religion =  sunni 
+		size = 109
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1334
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 389
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 2
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 1711
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 64
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 1407
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 57
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 2314
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 124
+	 }
+}
+#Gallipoli - Gallipoli (300800/75200 POPS)
+859 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 63840
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 1320
+	 }  
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 118
+	 } 
+	farmers = {
+		culture = roma
+		religion =  sunni 
+		size = 211
+	 }  
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 162
+	 }
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1486
+	 } 
+	artisans = {
+		culture = jewish
+		religion =  jewish 
+		size = 174
+	 }
+	artisans = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 109
+	 }  
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 439
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2141
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 100
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 1890
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 82
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 3765
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 100
+	 }
+}
+#Istanbul - Istanbul (915600/228900 POPS)
+860 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 55753
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 513
+	 } 
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 610
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 188
+	 }
+	farmers = {
+		culture = armenian
+		religion =  orthodox
+		size = 1613
+	 }
+	farmers = {
+		culture = georgian
+		religion =  sunni
+		size = 423
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni
+		size = 343
+	 }
+	farmers = {
+		culture = jewish
+		religion = jewish
+		size = 623
+	 }
+	farmers = {
+		culture = lazi
+		religion =  sunni
+		size = 283
+	 }
+	farmers = {
+		culture = greek
+		religion =  orthodox
+		size = 6223
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  orthodox
+		size = 327
+	 } 
+	farmers = {
+		culture = roma
+		religion =  sunni 
+		size = 315
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 33427
+	 }
+	artisans = {
+		culture = albanian
+		religion =  sunni 
+		size = 109
+	 }
+	artisans = {
+		culture = armenian
+		religion =  orthodox 
+		size = 3843
+	 }
+	artisans = {
+		culture = greek
+		religion =  orthodox 
+		size = 2180
+	 }
+	artisans = {
+		culture = jewish
+		religion =  jewish 
+		size = 3815
+	 }
+	artisans = {
+		culture = bulgarian
+		religion =  orthodox
+		size = 193
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 7086
+	 }
+	aristocrats = {
+		culture = armenian
+		religion =  orthodox 
+		size = 1090
+	 }
+	aristocrats = {
+		culture = greek
+		religion =  orthodox 
+		size = 2180
+	 }
+	aristocrats = {
+		culture = jewish
+		religion =  jewish 
+		size = 545
+	 }
+	aristocrats = {
+		culture = german
+		religion =  catholic  
+		size = 218
+	 }
+	aristocrats = {
+		culture = german
+		religion = secularism  
+		size = 146
+	 }
+	aristocrats = {
+		culture = french
+		religion = catholic  
+		size = 218
+	 }  
+	aristocrats = {
+		culture = french
+		religion = secularism  
+		size = 354
+	 }
+	aristocrats = {
+		culture = russian
+		religion = orthodox  
+		size = 218
+	 }  
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 15
+	 }
+	capitalists = {
+		culture = greek
+		religion =  orthodox 
+		size = 2
+	 }   
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 48401
+	 }
+	clerks = {
+		culture = armenian
+		religion =  orthodox 
+		size = 2180
+	 }
+	clerks = {
+		culture = greek
+		religion =  orthodox 
+		size = 3270
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 302
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 34916
+	 }
+	craftsmen = {
+		culture = greek
+		religion =  orthodox 
+		size = 2414
+	 }
+	craftsmen = {
+		culture = jewish
+		religion =  jewish		
+		size = 1821
+	 } 
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2031
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 9661
+	 }
+	soldiers = {
+		culture = armenian
+		religion =  orthodox 
+		size = 517
+	 }
+	soldiers = {
+		culture = greek
+		religion =  orthodox 
+		size = 856
+	 }
+	soldiers = {
+		culture = jewish
+		religion =  jewish 
+		size = 359
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 7695
+	 } 
+}
+#Uskudar - Uskudar (408000/102000 POPS)
+861 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 25115
+	 }
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 110
+	 }
+	farmers = {
+		culture = armenian
+		religion =  orthodox
+		size = 414
+	 }
+	farmers = {
+		culture = greek
+		religion =  orthodox
+		size = 438
+	 }  
+	farmers = {
+		culture = roma
+		religion = sunni
+		size = 185
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 9266
+	 }
+	artisans = {
+		culture = armenian
+		religion =  orthodox 
+		size = 272
+	 }
+	artisans = {
+		culture = greek
+		religion =  orthodox 
+		size = 327
+	 }
+	artisans = {
+		culture = jewish
+		religion =  jewish 
+		size = 218
+	 }   
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 2107
+	 }
+	aristocrats = {
+		culture = armenian
+		religion =  orthodox 
+		size = 163
+	 }
+	aristocrats = {
+		culture = greek
+		religion =  orthodox 
+		size = 218
+	 }
+	aristocrats = {
+		culture = greek
+		religion =  orthodox 
+		size = 172
+	 }  
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 5
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 12836
+	 }
+	clerks = {
+		culture = armenian
+		religion = orthodox
+		size = 109
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 85
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 8800
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 457
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 3204
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 274
+	 } 
+}
+#Izmit - Izmit (452000/113000 POPS)
+862 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 82581
+	 } 
+	farmers = {
+		culture = abkhaz
+		religion =  sunni 
+		size = 938
+	 } 
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 347
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 1526
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 1905
+	 }
+	farmers = {
+		culture = georgian
+		religion =  sunni 
+		size = 3838
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 441
+	 }
+	farmers = {
+		culture = lazi
+		religion =  sunni 
+		size = 1481
+	 }
+	farmers = {
+		culture = roma
+		religion =  sunni 
+		size = 289
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 3990
+	 } 
+	artisans = {
+		culture = bosniak
+		religion =  sunni 
+		size = 163
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 1033
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 4450
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 149
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 4478
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 137
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 5429
+	 }
+	soldiers = {
+		culture = georgian
+		religion =  sunni 
+		size = 202
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 482
+	 }  
+}
+#Bursa - Bursa (684000/171000 POPS)
+863 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 130325
+	 }
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 171
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 472
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 946
+	 }
+	farmers = {
+		culture = georgian
+		religion =  sunni 
+		size = 1331
+	 } 
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 129
+	 }
+	farmers = {
+		culture = lazi
+		religion =  sunni 
+		size = 244
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 147
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  orthodox 
+		size = 251
+	 }
+	farmers = {
+		culture = tatar
+		religion =  sunni 
+		size = 239
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 8239
+	 }
+	artisans = {
+		culture = greek
+		religion =  orthodox 
+		size = 216
+	 }
+	artisans = {
+		culture = bulgarian
+		religion =  orthodox 
+		size = 109
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 1791
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 6
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 8009
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 225
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 9481
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 289
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 8499
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 537
+	 } 
+}
+#Balikesir - Balikesir (571000/142800 POPS)
+864 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 112265
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 698
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 1212
+	 }
+	farmers = {
+		culture = georgian
+		religion =  sunni 
+		size = 1203
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 1050
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 5312
+	 }
+	artisans = {
+		culture = greek
+		religion =  orthodox 
+		size = 348
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 1250
+	 }
+	aristocrats = {
+		culture = greek
+		religion =  orthodox 
+		size = 109
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 4
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 5967
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 187
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 6102
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 186
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 7101
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 494
+	 }  
+}
+#Canakkale - Canakkale (261600/65400 POPS)
+865 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 50361
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 342
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 702
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 178
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 2452
+	 }
+	farmers = {
+		culture = greek
+		religion =  orthodox 
+		size = 872
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1598
+	 }
+	artisans = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 109
+	 }
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 327
+	 }  
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 663
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2377
+	 }
+	clerks = {
+		culture = greek
+		religion =  orthodox 
+		size = 199
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 86
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 1983
+	 }
+	craftsmen = {
+		culture = greek
+		religion =  orthodox 
+		size = 218
+	 } 
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 50
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 3134
+	 }
+	soldiers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 134
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 365
+	 }  
+}
+#Afyon - Afyon (366000/91500 POPS)
+866 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 79243
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 479
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1930
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 590
+	 } 
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2451
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 120
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2026
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 73
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 4542
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 158
+	 }  
+}
+#Kutahya - Kutahya (416000/104000 POPS)
+867 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 88206
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 166
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 3485
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 580
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 49
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2475
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 137
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 4432
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 75
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 5206
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 151
+	 }  
+}
+#Eskishehir - Eskishehir (266000/66500 POPS)
+868 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 46177
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 157
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 331
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 466
+	 }
+	farmers = {
+		culture = tatar
+		religion =  sunni 
+		size = 2365
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 4013
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 984
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 2
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 4141
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 87
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 4401
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 126
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 3181
+	 }
+	soldiers = {
+		culture = tatar
+		religion =  sunni 
+		size = 125
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 408
+	 } 
+}
+#Izmir - Izmir (1052000/263000 POPS)
+869 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 166667
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 112
+	 }
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 444
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 798
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 335
+	 } 
+	farmers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 531
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  orthodox
+		size = 122
+	 }
+	farmers = {
+		culture = serb
+		religion =  orthodox
+		size = 109
+	 }
+	farmers = {
+		culture = roma
+		religion =  sunni
+		size = 229
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 23958
+	 }
+	artisans = {
+		culture = greek
+		religion =  orthodox 
+		size = 1090
+	 }	
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 4575
+	 }
+	aristocrats = {
+		culture = greek
+		religion =  orthodox 
+		size = 391
+	 }
+	aristocrats = {
+		culture = french
+		religion =  catholic 
+		size = 134
+	 }
+	aristocrats = {
+		culture = italian
+		religion =  catholic 
+		size = 131
+	 } 	
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 7
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 23098
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 347
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 26740
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 859
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 13101
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 1323
+	 }  
+}
+#Manisa - Manisa (514400/128600 POPS)
+870 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 103649
+	 }
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 349
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 350
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  sunni 
+		size = 256
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  orthodox
+		size = 109
+	 }	
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 5504
+	 }
+	artisans = {
+		culture = greek
+		religion =  orthodox 
+		size = 109
+	 }	
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 914
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 17
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 4386
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 169
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 6464
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 158
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 6398
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 235
+	 }  
+}
+#Denizli - Denizli (344000/86000 POPS)
+871 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 69921
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 402
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 5982
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 583
+	 }
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2415
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 113
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 8132
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 74
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 4276
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 114
+	 }  
+}
+#Mugla - Mugla (240000/60000 POPS)
+872 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 50407
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1959
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 434
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 3
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 1930
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 80
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2283
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 53
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 2987
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 107
+	 } 
+}
+#Konya - Konya (720000/180000 POPS)
+873 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 147140
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 360
+	 }
+	farmers = {
+		culture = georgian
+		religion =  sunni 
+		size = 109
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 6756
+	 }	
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 4895
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 1177
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 5026
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 238
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 5550
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 144
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 8958
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 355
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 340
+	 }  
+}
+#Burdur - Burdur (324800/81200 POPS)
+874 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 70040
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 2085
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 428
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 3
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 1821
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 107
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2718
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 56
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 4037
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 62
+	 }  
+}
+#Antalya - Antalya (303000/75500 POPS)
+875 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 64635
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 2028
+	 }
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 109
+	 }	
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 498
+	 } 
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2377
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 99
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2216
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 76
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 3765
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 145
+	 }  
+}
+#Ankara - Ankara (928000/232000 POPS)
+876 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 191838
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 284
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 9056
+	 }
+	farmers = {
+		culture = tatar
+		religion =  sunni 
+		size = 2149
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 5121
+	 }
+	artisans = {
+		culture = jewish
+		religion = jewish 
+		size = 109
+	 } 	
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 992
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 4
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 4685
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 305
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 6267
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 112
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 11545
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 476
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 4659
+	 }  
+}
+#Amasya - Amasya (815200/203800 POPS)
+877 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 124341
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 49076
+	 } 	 
+	farmers = {
+		culture = bosniak
+		religion = sunni 
+		size = 117
+	 }
+	farmers = {
+		culture = circassians
+		religion = sunni 
+		size = 1748
+	 }
+	farmers = {
+		culture = georgian
+		religion = sunni 
+		size = 255
+	 }
+	farmers = {
+		culture = azerbaijani
+		religion = shiite 
+		size = 373
+	 }
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 183
+	 }
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 5393
+	 } 	
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 3306
+	 }
+	artisans = {
+		culture = armenian
+		religion =  orthodox
+		size = 109
+	 } 	
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 813
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 3585
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 268
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 3993
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 133
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 10123
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 284
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 256
+	 }  
+}
+#Kayseri - Kayseri (726000/181500 POPS)
+878 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 140316
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 8797
+	 } 
+	farmers = {
+		culture = abkhaz
+		religion =  sunni 
+		size = 141
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 3357
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 3756
+	 }
+	farmers = {
+		culture = bulgarian
+		religion =  orthodox
+		size = 185
+	 }
+	farmers = {
+		culture = kabarday
+		religion =  sunni
+		size = 398
+	 }   
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 7326
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 1369
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 5
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 5630
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 239
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 8792
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 171
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 9023
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 326
+	 }  
+}
+#Sivas - Sivas (906800/226700 POPS)
+879 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 131191
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite
+		size = 57200
+	 } 
+	farmers = {
+		culture = abkhaz
+		religion =  sunni 
+		size = 295
+	 } 
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 182
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 1304
+	 }
+	farmers = {
+		culture = georgian
+		religion =  sunni 
+		size = 619
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 9803
+	 }
+	 farmers = {
+		culture = kurdish
+		religion =  shiite 
+		size = 1289
+	 }
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 3245
+	 }
+	artisans = {
+		culture = armenian
+		religion =  orthodox
+		size = 257
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 1080
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 4
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 4234
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 298
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 3812
+	 }
+	craftsmen = {
+		culture = armenian
+		religion =  orthodox 
+		size = 327
+	 } 
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 122
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 10018
+	 }
+	 soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1232
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 317
+	 }  
+}
+#Kastamonu - Kastamonu (634400/158600 POPS)
+880 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 142244
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 835
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1756
+	 }
+	artisans = {
+		culture = armenian
+		religion =  orthodox
+		size = 438
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 723
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 2
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2863
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 209
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2593
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 89
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 7887
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 277
+	 } 
+}
+#Bolu - Bolu (720000/180000 POPS)
+881 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 160542
+	 }
+	farmers = {
+		culture = abkhaz
+		religion =  sunni 
+		size = 988
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 1608
+	 }
+	farmers = {
+		culture = georgian
+		religion =  sunni 
+		size = 1074
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 593
+	 }
+	farmers = {
+		culture = lazi
+		religion =  sunni 
+		size = 1297
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 2498
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 1002
+	 } 
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 3741
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 236
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2783
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 78
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 8930
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 363
+	 } 
+}
+#Trabzon - Trabzon (619200/154800 POPS)
+882 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 126731
+	 }
+	farmers = {
+		culture = lazi
+		religion =  sunni 
+		size = 8044
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 3147
+	 }
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 252
+	 }  
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 906
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 3877
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 203
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 3644
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 110
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 7678
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 208
+	 }  
+}
+#Sinop - Sinop (666800/166700 POPS)
+883 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 146655
+	 }
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 665
+	 } 
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 1562
+	 }
+	farmers = {
+		culture = armenian
+		religion = orthodox
+		size = 133
+	 } 
+	farmers = {
+		culture = georgian
+		religion = sunni
+		size = 1777
+	 }
+	farmers = {
+		culture = kurdish
+		religion = sunni
+		size = 558
+	 }
+	farmers = {
+		culture = bulgarian
+		religion = orthodox
+		size = 157
+	 }
+	farmers = {
+		culture = lazi
+		religion = sunni
+		size = 148
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1653
+	 }
+	artisans = {
+		culture = armenian
+		religion =  orthodox
+		size = 109
+	 }  
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 565
+	 }
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2435
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 219
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 1989
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 72
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 8294
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 245
+	 }  
+}
+#Giresun - Giresun (671200/167800 POPS)
+884 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 152337
+	 }
+	farmers = {
+		culture = georgian
+		religion =  sunni 
+		size = 1247
+	 } 
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 236
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1458
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 471
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2076
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 221
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 1566
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 72
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 8345
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 141
+	 }  
+}
+#Kars - Kars (414000/103500 POPS)
+885 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 60566
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 9814
+	 } 
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 22815
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 159
+	 }
+	farmers = {
+		culture = russian
+		religion =  orthodox 
+		size = 496
+	 }
+	farmers = {
+		culture = azerbaijani
+		religion =  shiite
+		size = 215
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 969
+	 }	 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 462
+	 }
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2098
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 136
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 880
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 101
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 3959
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1200
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 178
+	 }  
+}
+#Ardahan - Ardahan (174400/43600 POPS)
+886 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 21373
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 4992
+	 } 
+	farmers = {
+		culture = georgian
+		religion =  sunni 
+		size = 5653
+	 } 
+	farmers = {
+		culture = lazi
+		religion =  sunni 
+		size = 6034
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 820
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 268
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 1059
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 57
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 980
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 24
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 2156
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 92
+	 }  
+}
+#Erzurum - Erzurum (436000/109000 POPS)
+887 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 70693 
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 6627
+	 } 
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 11602
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  shiite 
+		size = 5421
+	 } 
+	farmers = {
+		culture = azerbaijani
+		religion =  shiite
+		size = 172
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1931
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 825
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 3025
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 142
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 1986
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 89
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 4507
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 850
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 485
+	 }  
+}
+#Erzincan - Erzincan (492000/123000 POPS)
+888 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 64012
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 27504
+	 } 
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 4964
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  shiite 
+		size = 15705
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1148
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 486
+	 } 
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 1847
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 162
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 1295
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 42
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 5034
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1090
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 257
+	 }  
+}
+#Malatya - Malatya (682000/170500 POPS)
+889 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 54708
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 29494
+	 } 
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 60818
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  shiite 
+		size = 1552
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 4787
+	 }
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 257
+	 }  
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 890
+	 }
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 3849
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 224
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 5849
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 133
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 8482
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 1597
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 343
+	 } 
+}
+#Van - Van (283400/70850 POPS)
+890 = {
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 40940
+	 }
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 22336
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 170
+	 } 
+	artisans = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1011
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 154
+	 }
+	aristocrats = {
+		culture = kurdish
+		religion =  sunni 
+		size = 327
+	 }  
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1779
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 94
+	 } 
+	craftsmen = {
+		culture = kurdish
+		religion =  sunni 
+		size = 974
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 66
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 3537
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 168
+	 }  
+}
+#Bitlis - Bitlis (250400/62600 POPS)
+891 = {
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 31991
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  shiite 
+		size = 6364
+	 }
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 16071
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 3096
+	 } 
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 752
+	 }
+	farmers = {
+		culture = assyrian
+		religion = orthodox 
+		size = 273
+	 } 
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 277
+	 } 
+	artisans = {
+		culture = kurdish
+		religion =  sunni 
+		size = 413
+	 } 
+	aristocrats = {
+		culture = kurdish
+		religion =  sunni 
+		size = 239
+	 }
+	clerks = {
+		culture = kurdish
+		religion =  sunni 
+		size = 906
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 83
+	 } 
+	craftsmen = {
+		culture = kurdish
+		religion =  sunni 
+		size = 417
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 24
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 3115
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 143
+	 } 
+}
+#Hakkari - Hakkari (183120/45780 POPS)
+892 = {
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 31409
+	 }
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 4278
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 6018
+	 } 
+	artisans = {
+		culture = kurdish
+		religion =  sunni 
+		size = 406
+	 } 
+	aristocrats = {
+		culture = kurdish
+		religion =  sunni 
+		size = 251
+	 }
+	clerks = {
+		culture = kurdish
+		religion =  sunni 
+		size = 698
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 60
+	 } 
+	craftsmen = {
+		culture = kurdish
+		religion =  sunni 
+		size = 570
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 10
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 2283
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 112
+	 }  
+}
+#Diyarbakir - Diyarbakir (527560/131890 POPS)
+893 = {
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 73127
+	 }
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 22191
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 14772
+	 }
+	farmers = {
+		culture = assyrian
+		religion = orthodox
+		size = 1931
+	 }  
+	artisans = {
+		culture = kurdish
+		religion =  sunni 
+		size = 2617
+	 }
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 981
+	 }
+	artisans = {
+		culture = armenian
+		religion = orthodox
+		size = 129
+	 } 
+	aristocrats = {
+		culture = kurdish
+		religion =  sunni 
+		size = 887
+	 }
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 218
+	 }
+	aristocrats = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 109
+	 }  
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 4
+	 }  
+	clerks = {
+		culture = kurdish
+		religion =  sunni 
+		size = 5188
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 173
+	 } 
+	craftsmen = {
+		culture = kurdish
+		religion =  sunni 
+		size = 3395
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 182
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 6555
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 262
+	 }  
+}
+#Adana - Adana (455600/113900 POPS)
+894 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 83276
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  shiite 
+		size = 2868
+	 } 
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 208
+	 }
+	farmers = {
+		culture = bosniak
+		religion =  sunni 
+		size = 118
+	 }
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 403
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1469
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 6001
+	 }
+	artisans = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 327
+	 }  
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 1068
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 5
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 5401
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 150
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 6927
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 217
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 5667
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 351
+	 } 
+}
+#Mersin - Mersin (305200/76300 POPS)
+895 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 51049
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 6158
+	 } 
+	farmers = {
+		culture = abkhaz
+		religion =  sunni 
+		size = 1608
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  shiite 
+		size = 1232
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 163
+	 } 
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 3496
+	 }
+	artisans = {
+		culture = greek
+		religion =  orthodox 
+		size = 146
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 777
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 1
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 3454
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 100
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 4058
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 134
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 3782
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 219
+	 }  
+}
+#Marash - Marash (283200/70800 POPS)
+896 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 34806
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 14936
+	 } 
+	farmers = {
+		culture = circassians
+		religion =  sunni 
+		size = 747
+	 }  
+	farmers = {
+		culture = kurdish
+		religion =  shiite 
+		size = 9861
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1095
+	 }   
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1910
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 338
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 4
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 1532
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 94
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2356
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 53
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 2627
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 912
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 85
+	 }  
+}
+#Antep - Antep (316000/79000 POPS)
+898 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 49880
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 3947
+	 } 
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 356
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 6592
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 4503
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 725
+	 } 
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 2
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 3745
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 103
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 5101
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 160
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 3925
+	 }
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 155
+	 } 
+}
+#Urfa - Urfa (288000/72000 POPS)
+899 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 24207
+	 }
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 27723
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 9446
+	 }
+	farmers = {
+		culture = albanian
+		religion =  sunni 
+		size = 114
+	 }   
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 1189
+	 }
+	artisans = {
+		culture = kurdish
+		religion =  sunni 
+		size = 763
+	 } 
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 332
+	 }
+	 aristocrats = {
+		culture = kurdish
+		religion =  sunni 
+		size = 223
+	 }
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 1171
+	 }
+	clerks = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1090
+	 }  
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 95
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 803
+	 }
+	craftsmen = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1090
+	 }
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 88
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 1936
+	 }
+	soldiers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 1635
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 70
+	 }  
+}
+#Antioch - Antioch (254000/63500 POPS)
+900 = {
+	farmers = {
+		culture = turkish
+		religion =  sunni 
+		size = 26331
+	 }
+	farmers = {
+		culture = turkish
+		religion =  shiite 
+		size = 6412
+	 } 
+	farmers = {
+		culture = arab_levantine
+		religion =  shiite 
+		size = 19560
+	 }
+	farmers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 2172
+	 }   
+	farmers = {
+		culture = kurdish
+		religion =  sunni 
+		size = 571
+	 }  
+	artisans = {
+		culture = turkish
+		religion =  sunni 
+		size = 2266
+	 }
+	artisans = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 545
+	 } 
+	artisans = {
+		culture = greek
+		religion = orthodox 
+		size = 215
+	 }
+	artisans = {
+		culture = armenian
+		religion = orthodox 
+		size = 131
+	 }   
+	aristocrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 518
+	 }
+	aristocrats = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 218
+	 }  
+	capitalists = {
+		culture = turkish
+		religion =  sunni 
+		size = 5
+	 }  
+	clerks = {
+		culture = turkish
+		religion =  sunni 
+		size = 2110
+	 }
+	clerks = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 1090
+	 } 
+	bureaucrats = {
+		culture = turkish
+		religion =  sunni 
+		size = 91
+	 } 
+	craftsmen = {
+		culture = turkish
+		religion =  sunni 
+		size = 2264
+	 }
+	craftsmen = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 1199
+	 } 
+	clergymen = {
+		culture = turkish
+		religion =  sunni 
+		size = 115
+	 }
+	soldiers = {
+		culture = turkish
+		religion =  sunni 
+		size = 2349
+	 }
+	soldiers = {
+		culture = arab_levantine
+		religion =  sunni 
+		size = 1090
+	 } 
+	officers = {
+		culture = turkish
+		religion =  sunni 
+		size = 223
+	 }  
+}
