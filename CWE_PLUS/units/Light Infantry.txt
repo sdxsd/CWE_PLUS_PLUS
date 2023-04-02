@@ -35,7 +35,6 @@ infantry = {
 	#Land Abilties
 	reconnaissance = 0.25
 	attack = 4
-	siege = 1
 	defence = 5
 	discipline = 1.0
 	support = 0.0

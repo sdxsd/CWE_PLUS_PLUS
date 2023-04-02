@@ -4,11 +4,9 @@ political_decisions = {
 		picture = "form_benelux"
 		potential = {
 			tag = NET
-			AND = {
-				OR = {
-					NOT = { exists = GER }
-					NOT = { LOWLAND_PROPOSAL }
-				}
+			NOT = {
+				exists = GER
+				has_country_flag = LOWLAND_PROPOSAL
 			}
 		}
 
@@ -18,13 +16,13 @@ political_decisions = {
 			exists = LUX
 			war = no
 			prestige = 150
-			NOT = { LOWLAND_PROPOSAL }
 		}
 
 		effect = {
-			BEL = { country_event = { id = 2001010 days = 1 } }
+			BEL = { country_event = { id = 2001010 days = 0 } }
 			set_country_flag = LOWLAND_PROPOSAL
 		}
+		ai_will_do = { factor = 0 }
 	}
 
 	centralise_lowland_kingdom = {
@@ -61,6 +59,7 @@ political_decisions = {
 				}
 			}
 		}
+		ai_will_do = { factor = 1 }
 	}
 
 		form_benelux = {
